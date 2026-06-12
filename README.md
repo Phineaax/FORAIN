@@ -1,6 +1,13 @@
 # FORAIN
 Repository de codes pour le projet CartaData Forain
 
+## Contexte:
+Les tests résumés ici ont été réalisés sur les documents textuels du répertoire "ALLEMAGNE", qui est assez représentatif de l'ensemble du corpus textuel. Il contient des textes faciles à déchiffrer, où l'écriture est claire et où la mise en page est simple. Il contient également des documents plus difficiles à déchiffrer, où la mise en page est complexe également (cartes postales, notamment).  
+Nous avons réalisé un benchmark d'OCR par modèles de langue ainsi que par OCR plus traditionnel. Nos recherches suggèrent que la méthode la plus performante est le passage par LLM, en particulier par Claude.  
+Ce GitHub contient:
+* Le code pour la génération de transcriptions par appel API (industrialisable) sur des LLMs, 
+* Des exemples de transcriptions pour Mistral et Claude
+* Le prompt utilisé
 
 ## Résumé des modèles utilisés par API et performances:
 **mistralai/mistral-small-3.2-24b-instruct:** 
