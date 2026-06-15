@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c99985;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Registr\'e9\
+Dresden, 10. V.\
+Cher Monsieur Forain.\
+Permettez de vous demander si vous \'eates\uc0\u8232 \'e0 Paris apr\'e8s les f\'eates de p\'e2ques, je\u8232 voudrai faire une nouvelle acquisition\u8232 d\'92eauxfortes et dessins et voudrai vous\u8232 parler au sujet d\'92une exposition \'e0 Dresd.\
+Voici une carte pour la r\'e9ponse.\
+Je serais enchant\'e9 de vous rencontrer et\uc0\u8232 regrette vivement que tous mes lettres\u8232 et t\'e9l\'e9grammes restaient non repondues,\u8232 je ne sais pas s\'92ils vous sont bien parvenues.\
+Veuillez agr\'e9er l\'92assurance de ma\uc0\u8232 plus haute consid\'e9ration\
+E. Arnold.\
+\'97 une carte-postale. \'97\
+}
