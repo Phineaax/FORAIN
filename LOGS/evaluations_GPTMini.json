@@ -1,0 +1,2774 @@
+{
+  "FO-A-025": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Medium",
+      "Claude Sonnet",
+      "Claude Opus",
+      "GPT 4.1",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription : date, lieu, mention de l'incertitude, renvoi à M. Bonnaire, remerciements et liste complète des deux colonnes."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Rendue complète et correcte (date, lieu, Bonnaire, remerciements, listes des deux colonnes). Légèrement plus verbeux que le meilleur."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse, mentionne noms majeurs et confiance dans certains votants ; formule «prix» légèrement présumée mais globalement fidèle."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Claire et concise, indique lieu, Bonnaire et quelques noms; omet la liste complète et l'incertitude signalée par l'auteur."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Correct sur le lieu et Bonnaire; affirme «prix Galignani» (légère inférence) et n'énumère pas les membres."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Synthèse juste et concise (liste jointe mais non détaillée dans la description), omet les noms et la précision sur la 1re colonne."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très succinct; parle de «fondation Galignani» (inférence) et omet la liste et détails importants."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop focalisé sur Widor et une intervention ; omet la plupart des éléments (liste, renvoi à Bonnaire, phrase sur la 1re colonne)."
+      }
+    }
+  },
+  "FO-A-796": {
+    "classement": [
+      "Claude Sonnet",
+      "Claude Opus",
+      "GPT 4.1",
+      "GPT Mini",
+      "Mistral Medium",
+      "Mistral Large",
+      "GPT Mini prompt 1",
+      "Mistral Small"
+    ],
+    "meilleur": "Claude Sonnet",
+    "évaluations": {
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Traduction fidèle et succincte : date, expéditeur (Mme Th. Ollivier), destinataires, artistes et heure sont correctement rendus."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Très précis et complet (date, participants, heure). Petite incertitude sur le titre de l'expéditeur (écrit «M. Th. Ollivier» plutôt que possible «Mme»)."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Bonne synthèse, inclut lieu plausible («chez elle») et tous les intervenants. L'ajout de «leur fils» pour Jean‑Loup est une interprétation non explicitée."
+      },
+      "GPT Mini": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Fidèle et concis : date, invitation, artistes, destinataires et heure sont présents. Désigne l'expéditeur «M. Th. Ollivier» sans lever l'ambiguïté de genre."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 4,
+        "commentaire": "Correct sur l'essentiel (date, artistes, destinataires). Formulation étrange («un certain Jean-Loup») et léger flou sur le rôle exact des destinataires."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 3,
+        "commentaire": "Résumé fidèle mais trop vague («sa famille») : perd des précisions (Mme Forain, M. Jean‑Loup) même si l'information centrale reste correcte."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativity": 4,
+        "commentaire": "Contient la plupart des éléments mais fait une erreur en indiquant que les musiciens joueront «chez eux» (place inexacte) et garde l'expéditeur au masculin."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativity": 2,
+        "commentaire": "Très concis mais inexact : attribue la réunion à la maison de Forain (alors que le texte indique que l'on vient «faire... à mon mari») et omet précision sur l'expéditeur."
+      }
+    }
+  },
+  "FO-A-795_1": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Opus",
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Mistral Medium",
+      "Mistral Small",
+      "Mistral Large"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Rend fidèlement le contenu (date, lieu, destinataire, raison, durée estimée, excuses et engagement pour les actes suivants) de manière concise et complète."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Très proche du précédent : toutes les informations essentielles sont présentes et l'énoncé est clair et succinct."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 5,
+        "commentaire": "Mentionne la date et l'adresse, l'excuse et la promesse pour les actes suivants ; un peu plus verbeux mais fidèle et informatif."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativity": 4,
+        "commentaire": "Fidèle et concis ; omet toutefois la date/lieu et la formulation d'excuses explicite (mais couvre le report et la durée estimée)."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 4,
+        "commentaire": "Fidèle au sens général (report, corrections, excuses, garantie pour les actes suivants) mais n'indique pas la date/lieu ni la durée estimée."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativity": 4,
+        "commentaire": "Résume bien l'essentiel mais introduit une nuance (« à la demande ») et un prénom non présent dans la lettre, légère inférence non justifiée par la transcription."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativity": 2,
+        "commentaire": "Très succinct et fidèle sur l'idée principale (ajournement pour corrections) mais manque les détails importants (date, durée, excuses, engagement pour les actes suivants)."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativity": 2,
+        "commentaire": "Trop vague et introducteur (spéculation sur le rôle de la destinataire), omet la date, la durée et les excuses ; contient des éléments non présents dans la lettre."
+      }
+    }
+  },
+  "FO-A-795_2": {
+    "classement": [
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Claude Opus",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT 4.1",
+    "évaluations": {
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle, concise et couvre nom, demande d'indulgence et formule de respect."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse de la formule finale; claire et fidèle."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Equivalent à Sonnet, fidèle et informatif, formulation légèrement redondante."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Précis et couvre bien les éléments essentiels, assez concis."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Très fidèle mais un peu verbeux et redondant."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Globalement fidèle; l'ajout de « profond » est une légère amplification mais reste acceptable."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Correct mais plus verbeux; mentionne un destinataire 'inconnu' non explicite dans le texte (inférence)."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très concis mais trop vague (« hommage ») et omet des détails clés (humble serviteur, formulation exacte)."
+      }
+    }
+  },
+  "FO-A-631_3": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Description très fidèle et concise : rapporte l'espoir sur « elles » et la formule de politesse adressée à Madame sans ajout inutile."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Identique en fidélité et concision au précédent ; capture l'essentiel sans extrapolation."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse, un léger ajout explicatif ('œuvres') non explicite dans le texte mais plausible."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Faithful globalement, propose une interprétation (œuvres/peintures/photographies) clairement marquée comme probable ; un peu plus verbeux."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Correct et informatif, mais formule plus développée et inclut la même hypothèse sur la nature de « elles »."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Comprend l'essentiel mais ajoute des hypothèses spécifiques (modèle/actrice, séance) qui ne sont pas étayées par le texte."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 2,
+        "commentaire": "S'éloigne du texte en inventant des détails (confort visuel, interlocutrices) et interprétations non justifiées."
+      },
+      "Mistral Small": {
+        "fidélité": 1,
+        "concision": 3,
+        "informativité": 1,
+        "commentaire": "Incorrect : interprète le passage comme un message de condoléances/funérailles, ce qui contredit clairement le contenu."
+      }
+    }
+  },
+  "FO-A-631_2": {
+    "classement": [
+      "[GPT Mini prompt 1]",
+      "[Claude Sonnet]",
+      "[Claude Opus]",
+      "[GPT Mini]",
+      "[Mistral Large]",
+      "[Mistral Small]",
+      "[Mistral Medium]",
+      "[GPT 4.1]"
+    ],
+    "meilleur": "[GPT Mini prompt 1]",
+    "évaluations": {
+      "[GPT Mini prompt 1]": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend précisément le contenu : excuse/report, promesse de rappeler l'invitation, Destuty terminera la pantomime au plus tôt, photos en hydroquinone et réception avant la prochaine visite. Aucune hallucination, formulé très clairement."
+      },
+      "[Claude Sonnet]": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et succinct ; capture l'essentiel sans ajout."
+      },
+      "[Claude Opus]": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse fidèle : réponse à une invitation, achèvement du « panto », photos en développement."
+      },
+      "[GPT Mini]": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif ; légèrement plus verbeux que les meilleurs mais sans erreur."
+      },
+      "[Mistral Large]": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Correct sur les points clés (remerciement, pantomime, photos) mais omet la nuance de « vous rappeler » et reformule un peu différemment."
+      },
+      "[Mistral Small]": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement fidèle et clair, un peu plus générique dans la formulation."
+      },
+      "[Mistral Medium]": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient les éléments principaux mais introduit une hallucination (identité de l'expéditeur présumée) — baisse importante de fidélité."
+      },
+      "[GPT 4.1]": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Identifie correctement invitation, avancement du « panto » et photos, mais introduit imprécisions (par ex. parle de « renouveler » l'invitation et hésite sur le sens de 'panto'), donc moins fidèle."
+      }
+    }
+  },
+  "FO-A-631_1": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Opus",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Reflète fidèlement le contenu (inclut 'Dimanche', Debussy quittant Paris pour une dizaine de jours) et conclut logiquement au report du dîner sans ajouter d'éléments non présents."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très proche de la transcription, fidèle et informatif. Légèrement redondant mais clair."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse : qui, quoi, conséquence (report). Fidèle et complet."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Très concis et correct. Omet le jour ('Dimanche') mais capture l'essentiel (départ de Debussy, dîner reporté)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Fidèle et clair mais emploie 'compromis' (moins précis que 'reporté') ; reste néanmoins correct et informatif."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Formulation concise (« ajournement ») et fidèle sur l'essentiel, mais moins de détails (pas le jour explicitement)."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Introduce un élément halluciné ('Forain') non présent dans la transcription, ce qui réduit fortement la fidélité malgré des détails ajoutés."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop bref et affirme une 'annulation' alors que le texte ne précise pas explicitement l'issue (se contente de 'notre dîner est donc…'), perte d'informations utiles."
+      }
+    }
+  },
+  "FO-A-1644": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Mistral Medium",
+      "Mistral Small",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "GPT 4.1"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : date et adresse, répétition des remerciements, sentiment de ravissement/reconnaissance, allusion à la « zone de musique », 'grazie' et signature. Pas d'ajouts."
+      },
+      "GPT Mini": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très proche du contenu original et concis. Légère interprétation en parlant des « auteurs » (pluriel), mais sinon fidèle."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Rend bien la gratitude, le lieu et l'allusion musicale. Introduit l'idée de 'compensation musicale' et suggère une relation artistique proche (interprétations plausibles mais non explicitement écrites)."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Synthétique et globalement fidèle. Fait une inférence sur la cause des remerciements (« envoi ou attention ») qui n'est pas explicitée dans la transcription."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Bonne synthèse du ton, mais introduit sans preuve le destinataire 'Forain' (hallucination)."
+      },
+      "Claude Opus": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Reprend des éléments corrects (lieu, gratitude, musique) mais ajoute des précisions non supportées (qualifier l'auteur de 'membre de la famille Mendelssohn', adresser à Forain)."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Concis et capte le ton, mais présume que 'Mendelssohn' est le compositeur et parle de 'collaboration musicale' — ajouts non confirmés par le texte."
+      },
+      "GPT 4.1": {
+        "fidélité": 1,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Reprend la gratitude et le lieu, mais contient une forte hallucination en identifiant le destinataire comme 'Jean-Louis Forain'."
+      }
+    }
+  },
+  "FO-NABOTS-PANTOMIME-1_07": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Mistral Large",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement la scène (nuit, puits, les petites, gestes des pieds/mains/nattes, déclaration conjointe, impossibilité de choisir et appréciation de l'égalité) de manière concise et complète."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très proche du précédent : fidèle aux éléments clés (lieu, gestes, dialogue implicite) et formulé brièvement."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Précise le puits et la situation, fidèle sur l'essentiel, mais omet les détails sensoriels (pieds/mains/nattes, grâces enfantines)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne capture de l'intrigue principale (deux filles, déclaration conjointe, incapacité du chevalier à choisir), mais sans les détails scéniques (puits, gestes)."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Description correcte et concise mais très générique ; n'évoque pas le puits ni les gestes spécifiques des filles."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Résumé fidèle mais générique et sans les détails scéniques (puits, démonstrations physiques)."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis et correct sur le point central (égalité et impossibilité de choisir) mais omet les éléments de décor et les gestes distinctifs."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient l'essentiel de la scène mais introduit une information non présente (référence à Jean‑Louis Forain) — hallucination qui nuit fortement à la fidélité."
+      }
+    }
+  },
+  "FO-NABOTS-CARNET-TEXTES_27": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "Mistral Large",
+      "GPT Mini",
+      "GPT 4.1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription, sobre et couvre les éléments essentiels (scène 9, Bellina, le curé, Monsieur Jean, l'homme évoqué 'deux mois')."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Fidèle et concis, mentionne la durée de deux mois et les rôles présents — pas d'ajout spéculatif."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne restitution, signale aussi que le texte est interrompu ; légèrement plus verbeux que l'idéal."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Description exacte et informative; emploie un ton un peu interprétatif ('insinuant'), mais reste fidèle."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Précis et concis; rend bien la scène et les personnages, mais omet la mention explicite de la durée de 'deux mois'."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif, légèrement plus verbeux (‘‘commence à lui confesser'') mais sans erreur notable."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Capture l'idée générale mais contient des inexactitudes (présente le passage comme un monologue et parle de 'persuader' Jean), omission/altération de nuances."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Rend les faits principaux mais ajoute des spéculations (brouillon/ébauche, interprétation du ton) non attestées par la transcription."
+      }
+    }
+  },
+  "FO-NABOTS-CARNET-TEXTES_10": {
+    "classement": [
+      "Claude Opus",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "Claude Opus",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Description concise et fidèle aux éléments clés (Bettina, excuse, ne pas réveiller le curé, chant discret, titre de la chanson). Légère interprétation sur « l'interlocuteur feint la faute » mais globalement correcte."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse (dialogue, Bettina, curé, chant), mais interprète l'intention comme « réveiller discrètement » alors que le texte contient aussi une consigne explicite de ne pas réveiller."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et complète : mentionne le souvenir, la crainte de réveiller quelqu'un, l'attelage de la voiture et la proposition de chanter doucement — capture les éléments essentiels sans ajout."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 2,
+        "informativité": 2,
+        "commentaire": "Introduit une personne non présente (Jean-Louis Forain) et ajoute un registre 'surréaliste' non justifié par la transcription ; verbeux et partiellement hallucinatoire."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Rend compte des principaux thèmes (souvenir, excuses, curé, voiture, chant) mais ajoute une qualification « douloureux » qui n'est pas évidente dans le texte."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et synthétique : couvre Bettina, l'excuse, la décision de ne pas réveiller le curé, l'attelage et la stratégie de chanter doucement, avec le titre de la chanson."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Présente le texte comme une lettre (alors que c'est un dialogue) et exagère l'idée d'une 'sortie en voiture avec un curé'; contient quelques éléments corrects mais moins précis."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne capture de la nature dialoguée et des points clés (Bettina, souvenir, ne pas réveiller le curé, chant). N'évoque pas l'attelage de la voiture, ce qui réduit légèrement l'informativité."
+      }
+    }
+  },
+  "IMG_0110": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Sonnet",
+      "Claude Opus",
+      "GPT 4.1",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Reflète fidèlement le texte transcrit (expéditeur, adresse d'envoi, destinataires et message 'mille souvenirs / les meilleurs'), sans ajout inutile."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription, conserve la formulation inhabituelle 'Madame et Monsieur et belle Forain' et l'adresse de Londres."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse (expéditeur, adresse, destinataires, souvenir). Omet la formulation exacte 'et belle' mais reste correcte et concise."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Equivalent à Claude Sonnet : fidèle et concis, omission mineure de la formulation exacte du destinataire."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne capture de l'idée générale (qui, message, provenance), mais n'indique pas l'adresse parisienne et normalise le destinataire ('Monsieur et Madame Forain')."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Donne l'essentiel mais invente le prénom 'Jean-Louis' et suggère 'carte de visite' (non attesté) — hallucinations réduisant la fidélité."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 3,
+        "commentaire": "Conserve expéditeur, adresse et message mais introduit 'Jean-Louis Forain' et des jugements de ton; ces ajouts ne figurent pas dans la transcription."
+      },
+      "Mistral Small": {
+        "fidélité": 1,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Peu fiable : affirme qu'il s'agit d'une 'lettre de remerciement' et ajoute 'Jean-Louis', deux informations non présentes dans la transcription."
+      }
+    }
+  },
+  "IMG_0023": {
+    "classement": [
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "GPT Mini",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "Claude Sonnet",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : date, lieu, expéditeur, destinataire, annonce de venue et baisers. Légèrement verbeux mais complet."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Précis et concis ; mentionne l'adresse, la date, l'expéditeur, l'annonce du retour et les salutations affectueuses."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et complet (adresse, date, contenu affectueux). « Carte ou lettre » marque une légère hésitation mais reste correct."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient une hallucination (référence à Jean‑Louis Forain non présente dans la transcription) ; le reste du résumé est acceptable."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Résumé fidèle et concis, mais omet l'adresse complète et quelques détails mineurs."
+      },
+      "GPT Mini": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement fidèle sur la venue et les salutations, mais introduit une interprétation spéculative (« questions familiales ou financières ») non établie."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Direct et bref, mais omet l'adresse et la mention explicite des « beaucoup de baises » et autres éléments affectueux."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne lecture générale (date, lieu, expéditeur, destinataire, salutations). L'interprétation 'présumée mère' est prudente mais additionnelle."
+      }
+    }
+  },
+  "FO-A-012_1": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription : lieu (Gérardmer), auditoire ('cher maître et ami'), remerciements, fatigue initiale, intention de venir à Paris, engagement au 152e, accueil enthousiaste, objectif Colmar et avertissement 'faut pas que je me fasse prendre'."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Énonce clairement et succinctement tous les éléments essentiels sans ajouter d'informations non présentes."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Fidèle et sobre ; couvre gratitude et engagement au 152e dans un contexte militaire, mais est un peu plus générique et omet certaines précisions (fatigue initiale, intention de venir à Paris, formule finale sur 'se faire prendre')."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse des éléments principaux (Gérardmer, remerciements, 152e, Colmar) mais introduit le nom 'Forain' sans fondement dans la transcription (hallucination)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Similaire à Claude Opus : restitue bien le contenu mais attribue la lettre à Forain, ce qui n'apparaît pas dans la transcription."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Rend les points essentiels mais introduit des spéculations (nommer Jean-Louis Forain et qualifier la relation comme 'probablement protégé/élève') non présentes dans le texte."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Contient des ajouts non justifiés (attribution à Jean-Louis Forain, mention d'une 'touche d'humour') ; reprend néanmoins l'engagement et l'objectif Colmar."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Ajoute plusieurs hypothèses non présentes (que l'auteur est 'originaire de Gérardmer', que le 152e est 'stationné dans sa région', et attribution à Jean-Louis Forain). Contient l'idée générale d'engagement mais comporte des hallucinations."
+      }
+    }
+  },
+  "FO-A-726_2": {
+    "classement": [
+      "GPT 4.1",
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT 4.1",
+    "évaluations": {
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Récapitulé exact et succinct : remerciement pour une carte, journée inoubliable parmi fleurs et couleurs, localisation Londres, signature affectueuse."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte, mentionne la formule finale et le ton affectueux ; clair et concis."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bien rendu du contenu (merci pour la carte, journée parfaite parmi fleurs et couleurs, Londres, signature), sans ajout inutile."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse : note de remerciement à un proche, mention des fleurs et de Londres, ton dévoué. Précis et sobre."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Fidèle et prudent (« probablement depuis Londres »), capture l'essentiel sans inventions."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne description générale et concise ; restitue bien le ton affectueux et le contexte londonien."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Ajoute un nom propre (Jean-Louis Forain) et une supposition non justifiée — hallucination. Le reste (merci, fleurs, Londres, ton chaleureux) est correct."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Erreur de nature du message ('félicitations' au lieu de remerciement) et formulation moins précise sur la signature ; contient une interprétation incorrecte malgré brièveté."
+      }
+    }
+  },
+  "FO-A-778_1": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "Mistral Medium",
+      "GPT Mini",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : mention du kiosque, de la date, des «bonnes matricules», du soutien affectueux et des annotations chiffrées. Ni ajout ni omission notable."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse : capture l'aspect énigmatique, l'attachement, la date et les mesures/chiffres finaux. Aucun élément inventé."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Résumé fidèle et concis, mentionne la conservation des «matricules», l'attention, l'embrassade et les chiffres indéchiffrables."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Très fidèle et prudent; capture l'essentiel (kiosque, date, affection, souvenirs) mais n'évoque pas explicitement les annotations chiffrées."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne lecture affective et mention de la date, mais paraphrase 'bonnes matricules' en 'souvenirs' et omet les chiffres manuscrits."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Très similaire à Claude Sonnet : fidèle sur le ton et la localisation, mais un peu paraphrasé et sans mention des annotations chiffrées."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient une hallucination notable (attribution probable à Jean‑Louis Forain) et des spéculations (brouillon) non justifiées par la transcription."
+      },
+      "Mistral Small": {
+        "fidélité": 1,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Peu fiable : invente le statut de soldat et la caserne, éléments non présents dans le texte. Résumé trop spéculatif malgré la concision."
+      }
+    }
+  },
+  "FO-A-034": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement le contenu (arrivée, excuse pour ne pas avoir prévenu, 'c'est prêt', volonté de la voir), très concis et complet."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très proche du texte, mentionne 'c'est prêt' et le souhait de la voir; légèrement plus redondant que le meilleur."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif; formulation plus verbeuse et légère nuance ('recevoir' vs 'voir')."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse (arrivée, excuse, désir de rencontrer) mais omet la mention explicite 'c'est prêt'."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Concise et correcte, mais n’évoque pas le « c'est prêt » du texte."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Capture l'essentiel (retour, excuse, invitation à se voir) mais ne mentionne pas explicitement 'c'est prêt'."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Globalement correct mais ajoute l'idée 'dès qu’il est disponible' (inférence) et n'explicite 'c'est prêt'."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Introduit une hypothèse non attestée ('montrer une réalisation') à partir de 'c'est prêt', donc contient une hallucination."
+      }
+    }
+  },
+  "FO-A-606_2": {
+    "classement": [
+      "Claude Sonnet",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Medium",
+      "GPT 4.1",
+      "Claude Opus",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "Claude Sonnet",
+    "évaluations": {
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement la date, le signataire, les vœux de santé, la visite à la rentrée, la possible présence de Mlle Poulbot et l'appel téléphonique; bref et complet."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très complet (installée, santé, visite à la rentrée, Mlle Poulbot, téléphone, sympathie). Légèrement plus verbeux mais sans erreur."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concis — couvre la plupart des éléments clés (date, auteur, état, visite, téléphone) mais omet la mention explicite de la sympathie de la signature."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Capture bien la spontanéité, la santé, la visite à la rentrée, Mlle Poulbot et l'appel; un peu plus développé mais précis."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Correct et concis (date, auteur, vœux, visite possible) mais omet le téléphone, la mention d'« installée » et la formule de sympathie."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Résumé correct et concis (sympathie, santé, visite, Mlle Poulbot) mais omet le téléphone, la date et la précision « à la rentrée ». "
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient des approximations (qualifie le document de 'carte' de vœux) et manque de détails comme la remarque sur l'installation, la spontanéité ou la motivation de Mlle Poulbot."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Trop vague et partiellement inexact (parle de 'bonne santé mutuelle', omet la date, le téléphone, l'auteur et d'autres détails essentiels)."
+      }
+    }
+  },
+  "FO-A-012_2": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "GPT 4.1",
+      "Mistral Small",
+      "Mistral Large",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Medium"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : situe le front, Colmar/La Schlucht, le blessé interrogé, la visite au père, Leipzig, l'inquiétude pour l'Alsace, Helmut, Jean-Loup et le désir d'écrire au Figaro. Pas d'ajout infondé."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Également très fidèle et complet : reprend les mêmes éléments essentiels sans ajout historique non justifié."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Concise et globalement correcte (moral, Alsace, père, Jean-Loup, Figaro) mais omet des détails notables (blessé/prisonnier à la Schlucht, mention explicite d'Helmut, la conviction de justice)."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne capture du moral, du blessé de Colmar et de la visite au père et de la préoccupation pour l'Alsace ; manque quelques précisions (La Schlucht, formulation exacte sur Helmut/justice)."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Relève les thèmes centraux (moral, inquiétude, Figaro, Jean-Loup) mais généralise l'emplacement (« en Alsace ») et omet le détail du blessé/prisonnier à la Schlucht et l'insistance sur la justice."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Reprend les éléments principaux mais ajoute explicitement « Première Guerre mondiale » (hallucination non attestée par la transcription). Sinon sobre et lisible."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Description riche et informative (Colmar, Schlucht, émotion, père) mais introduit aussi la mention explicite de la Première Guerre mondiale et affirme l'auteur « alsacien », ce qui va au‑delà du texte."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 2,
+        "commentaire": "Tend à spéculer (lieu et période : « probablement ... Première Guerre mondiale ») et reste vague sur des éléments concrets du courrier ; moins précis et plus prudent sur l'origine mais au prix d'une perte d'information."
+      }
+    }
+  },
+  "FO-A-018": {
+    "classement": [
+      "GPT Mini",
+      "Mistral Medium",
+      "GPT 4.1",
+      "GPT Mini prompt 1",
+      "Mistral Small",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Large"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Inclut lieu et date et la plupart des destinataires; introduit toutefois une négation (« n'ont pas été très dures ») qui n'apparaît pas clairement dans la transcription — légère inexactitude."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne restitution générale (lieu/date, remerciements, marches), mais atténue ou omet la mention explicite du « fils » comme bénéficiaire distinct."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concise; mentionne les marches éprouvantes mais ne met pas clairement en avant que le « fils » figure parmi les destinataires."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle : lieu/date (1914), remerciements au couple, mention du fils et du régiment, et des difficultés des marches."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Succincte mais omet la mention du fils et ne signale pas la difficulté des marches; perd donc des éléments essentiels."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle et complète : date/lieu, remerciements au nom du fils, du régiment et des chefs et camarades, et mention des marches (sans erreur introduite)."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Claire et concise, date et lieu présents; omet la précision explicite sur le « fils » même si le régiment est mentionné."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et proprement rédigée (remerciements au fils et au régiment, mention des marches), mais omet la date et le lieu explicites."
+      }
+    }
+  },
+  "FO-A-931_2": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement les éléments clefs (dix années de vie militaire, premiers pas amoureux, admirateurs, «depuis trois années», échange téléphonique au Croisement, remerciements/admiration) sans ajout."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très proche du texte, aucun apport inventé, mentionne les points essentiels y compris les réformés et le Croisement."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Résumé correct et sobre; omet quelques détails (durée de dix ans, mention des admirateurs et des «trois années»)."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Bonne synthèse générale (parcours militaire, émois, remerciements) mais passe sous silence des détails précis (durée, admirateurs, Croisement)."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Signale correctement la confusion du texte mais fournit peu de contenu concret et omet plusieurs éléments cités dans la lettre."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 3,
+        "informativité": 3,
+        "commentaire": "Rend l'ambiance et certains éléments (souvenirs militaires, téléphone au Croisement) mais introduit une identification spéculative (Jean-Louis Forain) et oublie d'autres détails."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Synthèse brève mais contient une supposition non justifiée (identité de l'auteur) et omet plusieurs mentions présentes dans la transcription."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très concis mais ajoute une identification (Jean Forain) sans fondement et néglige des détails importants (durée, admirateurs, Croisement, «trois années»)."
+      }
+    }
+  },
+  "FO-A-031_1": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "GPT Mini",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Reflète exactement le contenu (adresse, date, message, question sur les thèmes) sans ajout inutile."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et clair, rend le sujet et la question finale sans inventer d'éléments."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif (adresse, date, contenu), un peu plus verbeux que l'exemplaire optimal."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fiable et concis; n'indique pas la date (21 janv.) mais reprend l'essentiel."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Ajoute le nom du destinataire (Jean‑Louis Forain) qui n'apparaît pas dans la transcription — hallucination partielle."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Introduit des inférences (présume l'auteur/intermédiaire et l'illustrateur) non présentes dans le texte; otherwise captures le problème."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis mais affirme que la lettre est adressée à Jean‑Louis Forain (non attesté), donc hallucine le destinataire."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Présume explicitement 'M. Forain' comme destinataire et simplifie le rôle de Blaizot; plusieurs éléments ajoutés non justifiés."
+      }
+    }
+  },
+  "FO-A-467_2": {
+    "classement": [
+      "[GPT Mini]",
+      "[GPT Mini prompt 1]",
+      "[Claude Sonnet]",
+      "[Claude Opus]",
+      "[GPT 4.1]",
+      "[Mistral Medium]",
+      "[Mistral Large]",
+      "[Mistral Small]"
+    ],
+    "meilleur": "[GPT Mini]",
+    "évaluations": {
+      "[GPT Mini]": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle : date, destinataire, départ pour Paris, météo, visite de Paul et aide pour emballer sont tous mentionnés de manière concise."
+      },
+      "[GPT Mini prompt 1]": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement tous les éléments du texte (départ, météo, Paul, emballage) de façon claire et brève."
+      },
+      "[Claude Sonnet]": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle et informatif; légèrement plus formulé/moins compact que les meilleurs."
+      },
+      "[Claude Opus]": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne restitution (carte postale, départ lundi soir, météo, Paul, aide au père); formulation un peu plus développée."
+      },
+      "[GPT 4.1]": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Fidèle et sobre, mais plus générique et omet la date explicite; capture les éléments essentiels."
+      },
+      "[Mistral Medium]": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient une hallucination (attribue la lettre à Jean‑Louis Forain) ; le reste (départ, météo, Paul, emballage) est correct."
+      },
+      "[Mistral Large]": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Hallucine l'auteur (Forain) et formule confuse (« temps à Maud » erroné) ; mentionne cependant le départ et les préparatifs."
+      },
+      "[Mistral Small]": {
+        "fidélité": 1,
+        "concision": 5,
+        "informativité": 1,
+        "commentaire": "Très inexact : inverse le sens (parle d'un retour à Paris) et omet la météo, la date et l'aide pour emballer. Trop vague."
+      }
+    }
+  },
+  "FO-A-841_1": {
+    "classement": [
+      "GPT 4.1",
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT 4.1",
+    "évaluations": {
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Résumé exact, sobre et complet : date, lieu, destinataire, personnes citées (Abel, Jean), inquiétude et demande de nouvelles après la guerre."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au contenu (y compris la mention d'une blessure légère) ; formulation un peu plus développée mais informative."
+      },
+      "GPT Mini": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse (mention de la blessure et de la proposition d'échange d'informations), légère interprétation sur l'offre d'envoi de renseignements si absence de réponse."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Fidèle et claire ; ajoute une nuance d'urgence ('instamment') et situe temporellement ('depuis la fin du conflit'), raisonnable mais légèrement interprétatif."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne restitution des éléments essentiels (date, lieu, destinataire, demande de nouvelles, blessure). Sobre et juste."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Captures principales (demande de nouvelles, blessure possible) mais introduit une supposition ('probablement un soldat') et évoque des difficultés non explicites dans la transcription."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis mais omet ou invente des éléments (par ex. transmettre des amitiés) et ne souligne pas clairement la mention d'une blessure légère."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient des erreurs d'interprétation importantes (présume que l'auteur est un soldat blessé) et mélange les rôles ; quelques éléments corrects mais peu fiable."
+      }
+    }
+  },
+  "FO-A-1111": {
+    "classement": [
+      "GPT 4.1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT 4.1",
+    "évaluations": {
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Description brève et fidèle : restitue la demande de restitution, l'auteur 'Denys' et la mention d'un imprévu sans ajouter d'invention."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concise, mentionne l'adresse et l'auteur; pas d'hallucination."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse, sobre; l'expression 'lapidaire' est une interprétation stylistique mais non trompeuse."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Précis et concis, reprend les éléments clés (adresse, pendule, concerts, signature)."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement correct mais ajoute une excuse (« s'excuse pour tout ennui ») qui n'est pas explicitement présente dans la transcription."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Contient une hallucination notable (identifie l'expéditeur comme 'Denys Cochin') et ajoute 'Paris' ; otherwise résumé du contenu correct."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Introduit une identification non justifiée ('probablement Denys Cochin') et une interprétation tonale (pressante/énigmatique)."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Fait des affirmations non supportées (attribue probablement à Jean‑Louis Forain, affirme que la pendule a été 'laissée lors de ses concerts'), ce qui réduit la fidélité."
+      }
+    }
+  },
+  "FO-A-714_2": {
+    "classement": [
+      "Claude Sonnet",
+      "GPT Mini prompt 1",
+      "Claude Opus",
+      "GPT Mini",
+      "Mistral Large",
+      "Mistral Small",
+      "Mistral Medium",
+      "GPT 4.1"
+    ],
+    "meilleur": "Claude Sonnet",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement le contenu (adresse, arrivée, départ demain à 8h pour Rouen, promesse d'écrire, signature affectueuse), clair et concis."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et concis, couvre les éléments essentiels (destinataire, adresse, arrivée, départ le lendemain à 8h, promesse de nouvelles)."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse fidèle du texte, ni ajout ni omission notable."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Décrit bien le contenu et le ton affectueux mais introduit le prénom 'Jean-Louis' (hallucination)."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Concise et informative mais invente le prénom 'Jean-Louis' (erreur)."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Fidèle et synthétique, reprend correctement les informations clés."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Correcte et brève mais mention erronée du prénom 'Jean-Louis'."
+      },
+      "GPT 4.1": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse générale mais ajoute le prénom 'Jean-Louis' sans base dans la transcription (hallucination)."
+      }
+    }
+  },
+  "FO-A-575_2": {
+    "classement": [
+      "Claude Opus",
+      "Mistral Medium",
+      "GPT 4.1",
+      "Mistral Large",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Small",
+      "Claude Sonnet"
+    ],
+    "meilleur": "Claude Opus",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 3,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Rend la plupart des informations mais ajoute une interprétation incorrecte (« se félicitant de la bonne nouvelle ») et reformule légèrement le contexte."
+      },
+      "Claude Sonnet": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Globalement court mais peu fidèle : la tournure laisse entendre que Mme de Gournay a demandé elle‑même, alors que c'est l'expéditeur qui dit l'avoir demandé."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et synthétique : mentionne l'expéditeur, la date, l'absence, la solution et le contexte du déjeuner."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne restitution, inclut la date et les principaux détails. Légèrement plus verbeux mais sans hallucination."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Concis et correct sur l'essentiel (contretemps, remplacement, déjeuner de Palmyre) mais omet la date."
+      },
+      "GPT Mini": {
+        "fidélité": 4,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Contient les éléments clés et la date, mais formulation hésitante (« prendre en charge/renvoyer ») et un peu verbeux."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très bref mais introduit une information non attestée (« parisien ») et omet la date ; sinon restitue le remplacement."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et synthétique ; restitue l'essentiel sans ajouter d'erreur, mais ne mentionne pas la date."
+      }
+    }
+  },
+  "FO-A-676_2": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "GPT 4.1",
+      "Mistral Medium",
+      "Mistral Small",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Claude Opus"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : lieu, destinataire, adresse et la formule exacte «à bientôt, souvenir» sont rendus de façon concise."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Équivalent au précédent : fidèle, bref et couvre qui/quoi/où."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Résumé juste et concis ; ajoute «amical» (lecture plausible) mais reste fidèle au contenu."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Reprend bien les éléments essentiels. Présume qu'il s'agit d'une carte postale et précise le ton, légère interprétation mais acceptable."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très bref et fidèle sur l'envoi et la signature, mais omet les formules exactes («à bientôt», «souvenir») et l'adresse détaillée."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Donne lieu, destinataire et message court, mais introduit «annonce d'un prochain retour», qui sur-interprète légèrement «à bientôt»."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Contenu global présent mais parle de «mot d'adieu» et «annonce d'une prochaine rencontre», formulations trop interprétatives."
+      },
+      "Claude Opus": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Identifie lieu et destinataire mais altère la signature («signée 'Jean'» au lieu de 'jean lon') et ajoute un «espoir d'un prochain revoir» plus affirmatif que le texte."
+      }
+    }
+  },
+  "FO-A-023_1": {
+    "classement": [
+      "Claude Opus",
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "GPT 4.1",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small",
+      "Claude Sonnet"
+    ],
+    "meilleur": "Claude Opus",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte (date, destinataire, liste pour un numéro spécial, texte de Geffroy, Vizzavona, proposition d'économie). Bref et complet."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse mais ajoute «mai 1921» (inférence non explicite dans la transcription). Reste clair sur le reste."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et complet : date, destinataire, sélection des peintures, mention de Geffroy et demande de photographier par Vizzavona. Formulation concise."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Rend bien l'essentiel et la qualité/tarif raisonnable de Vizzavona, mais précise «mai 1921» (non explicite) et est légèrement plus développée."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis et exact sur la demande de photographier par Vizzavona, mais omet des éléments comme la mention de Geffroy, la date et la nuance sur coûts/conditions."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse fidèle : date, but du numéro spécial, demande de ne pas laisser sortir les toiles avant photographie, et possibilité d'utiliser le photographe de Forain pour économiser."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Claire et brève; couvre la plupart des points essentiels mais introduit explicitement «mai 1921» (inférence) et reste un peu télégraphique."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle sur le point central (sélection, photos par Vizzavona) mais plus vague sur les détails (ne précise pas la date ni le nom de Geffroy explicitement)."
+      }
+    }
+  },
+  "FO-A-006": {
+    "classement": [
+      "Claude Opus",
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "Mistral Medium",
+      "Claude Sonnet",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "Claude Opus",
+    "évaluations": {
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et complète : donne lieu, destinataire (Forain), contenu (remerciements, dévouement) et les hommages à Madame Forain de façon concise."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne synthèse, fidèle et informative (inclut lieu et hommages). Légèrement plus verbeuse que l'optimum."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle et complète, mentionne le lieu et les hommages; formulation un peu plus longue."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Claire et concise, reprend bien le contenu principal (remerciements, dévouement, admiration) mais omet la mention du lieu et des hommages à Madame Forain."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement fidèle sur le fond (gratitude, dévouement, salut à Madame Forain) mais introduit «artiste» (inférence) et n'indique pas le lieu."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Correct et concise pour l'essentiel (remerciements, dévouement) mais omet le lieu et la salutation à Madame Forain, donc moins complète."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Fidèle sur l'essentiel (remerciement et engagement) et concise, mais manque de détails (lieu, hommages à Madame Forain)."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop courte et inexacte : présente la lettre comme une demande de collaboration (alors que c'est un remerciement pour une proposition), informations essentielles manquantes."
+      }
+    }
+  },
+  "FO-0025_3": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "Mistral Large",
+      "GPT 4.1",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : date, horaires (17 h et 21 h), lieu, commissaires, experts et détails d'exposition (privée et publique). Peu d'omissions."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Complète et fidèle (lieu, date, commissaires, experts, expositions, coordonnées), seule omission mineure : les horaires précis des ventes."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concise ; mentionne succession, vente après décès, lieu, date, commissaires et experts. Omissions : horaires et détails d'exposition/coordonnées."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement fidèle mais inexactitude sur les dates d'exposition (indique 'du 2 au 9 juin' au lieu de 2–6 et 9–10). Bonne couverture des autres éléments."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Bref et correct sur l'essentiel (succession, lieu, date, commissaires Rheims & Laurin) mais omet Philippe Rheims, noms d'experts et détails d'exposition."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Accurate but très synthétique : date, lieu et commissaires sont mentionnés, mais noms des experts, horaires et détails d'exposition manquent."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Capture l'idée générale mais omet Philippe Rheims, ne donne pas les horaires et simplifie les informations d'exposition ; reste partiellement fidèle."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très concis et sans erreurs majeures, mais extrêmement sommaire : plusieurs experts et détails (horaires, exposition, adresse complète) sont absents."
+      }
+    }
+  },
+  "FO-0010_9": {
+    "classement": [
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Mistral Medium",
+      "GPT Mini",
+      "Claude Opus",
+      "GPT Mini prompt 1",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "Claude Sonnet",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativity": 5,
+        "commentaire": "Couvre la plupart des éléments (manteau, chapeau, banquette, Paul Rousan, Willy, future célébrité) mais introduit une attribution (« Jean‑Louis Forain ») non justifiée par la transcription."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativity": 5,
+        "commentaire": "Très fidèle et synthétique : rend la nature fragmentaire, le contexte probable (café), les détails vestimentaires, les noms et l'intérêt historique/psychologique sans ajout non supporté."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 4,
+        "commentaire": "Bonne description, note la difficulté de déchiffrement et l'usage possible pour illustrations/commentaires ; couvre les points essentiels."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 5,
+        "commentaire": "Fidèle et informatif, insiste sur l'aspect portrait/croquis et la possible actrice, mentionne les noms et les détails vestimentaires."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativity": 4,
+        "commentaire": "Bonne synthèse mais ajoute une attribution explicite à Forain (non présente dans la transcription) et reste un peu plus interprétative."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 5,
+        "commentaire": "Rend fidèlement les éléments clefs (café, manteau, chapeau, banquette, Paul Rousan, Willy, École de Paris) sans ajouter d'attributions douteuses."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativity": 3,
+        "commentaire": "Très concise et correcte sur quelques éléments (chapeau, banquette, noms) mais omet plusieurs détails importants (intérêt historique/psychologique explicite, sœur/tante, spontanéité)."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativity": 5,
+        "commentaire": "Bonne synthèse fidèle du brouillon : contexte mondain/café, notoriété future, détails vestimentaires et mentions de Paul Rousan et Willy, sans ajout infondé."
+      }
+    }
+  },
+  "FO-0021_1": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Claude Opus",
+      "Claude Sonnet",
+      "GPT 4.1",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : cite les deux notices, dimensions, exposition, source (Art News/Art Index), collection Viau, date et prix, et Doc Orsay. Un peu verbeux mais complet."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Succinct et exact ; couvre les mêmes éléments essentiels que la transcription sans additions non fondées."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Donne les bons éléments (références, vente, collection) mais introduit l'attribution à Forain non présente dans la transcription."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne reprise des données principales mais commet la même hallucination en attribuant les œuvres à Forain."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Fidèle et prudent (pas d'ajouts), mais trop générique : omet la plupart des détails chiffrés et la date/lieu précis."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis, rappelle les références générales mais introduit Forain et manque de précision sur les détails (p. ex. page, taille)."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient des informations utiles (vente, collection) mais deux erreurs notables : attribution à Jean‑Louis Forain et orthographe altérée du nom Courtais → Courtois."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très réduit : ne retient que la vente du portrait et ajoute une attribution à Forain ; omet la référence à George Moore et la source Doc Orsay."
+      }
+    }
+  },
+  "FO-0002_2": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "Claude Opus",
+      "GPT Mini",
+      "Claude Sonnet",
+      "Mistral Large",
+      "GPT 4.1",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Description complète et fidèle : numéro de vente, maison, dates d'exposition et de vente, adresse, prix du catalogue, condition d'admission et liste des responsables. Brève et précise."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et succincte ; mentionne numéro, lieu, dates, modalités d'accès, prix et noms des commissaires. Bonne synthèse."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très complète et fidèle (inclut le prix du catalogue, la période d'exposition « jusqu'à midi les jours de vente » et la liste des conducteurs). Légèrement plus verbeuse mais informative."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concise, identifie couverture du catalogue, dates et lieu. Omet le prix du catalogue et la liste des responsables, d'où une information un peu moins complète."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Accurée de manière générale (dates, conditions, commissaires) mais très générique : manque de détails concrets (prix, adresse précise, dates exactes)."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Correct mais très sommaire : mentionne l'exposition et la vente à Sotheby Parke Bernet en mai 1973 et les modalités, mais omet dates précises, adresse, prix et noms. Ajoute une observation correcte (pas d'auteur identifié)."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très vague : indique uniquement qu'il s'agit d'une exposition/vente en mai 1973 par Sotheby Parke Bernet. Aucun détail (dates, adresse, prix, noms) — fidèle mais peu informatif."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient une inexactitude/ambiguïté sur la période d'exposition (indique exposition jusqu'au 4 mai alors que le texte précise exposition commençant le 27 avril et ouverte jusqu'aux jours de vente), et omet certains détails (prix du catalogue, liste complète des responsables)."
+      }
+    }
+  },
+  "FO-0019_2": {
+    "classement": [
+      "Claude Opus",
+      "GPT Mini prompt 1",
+      "Claude Sonnet",
+      "GPT Mini",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small",
+      "GPT 4.1"
+    ],
+    "meilleur": "Claude Opus",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement le contenu : date, expéditeurs (M. et Mme), adresse, retard, photo du tableau de Forain et invitation. Peu verbeux."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle et clair : date, expéditeur, envoi tardif de la photo, invitation et adresse. Bon équilibre."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Compte rendu complet et exact (date, adresse, retard, origine téléphonique, invitation). Formulation concise et complète."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 3,
+        "informativité": 4,
+        "commentaire": "Globalement correct mais ajoute le prénom \"Jean-Louis\" (hallucination non attestée dans la transcription). Rend l'adresse, invitation et salutations."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Sobre et correct sur les points essentiels (envoi, invitation, lieu) mais omet la date et la précision du retard."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Très fidèle et informatif (date, adresse, retard, invitation). Un peu plus verbeux que les meilleurs."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Mention correcte de l'envoi et de l'invitation mais ajoute \"Jean-Louis Forain\" (hallucination) et omet la date et l'adresse précise."
+      },
+      "GPT 4.1": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concise et naturelle, mais introduit \"Jean-Louis Forain\" (hallucination) et n'indique ni la date ni l'adresse complète."
+      }
+    }
+  },
+  "FO-0002_4": {
+    "classement": [
+      "GPT 4.1",
+      "Claude Opus",
+      "GPT Mini prompt 1",
+      "Claude Sonnet",
+      "GPT Mini",
+      "Mistral Large",
+      "Mistral Small",
+      "Mistral Medium"
+    ],
+    "meilleur": "GPT 4.1",
+    "évaluations": {
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Description brève, exacte et complète : date, titre de la vente, liste par lot avec prix en £ et $ et noms des acheteurs."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle (mentionne les 92 lots et des acheteurs précis). Légèrement plus verbeux que le meilleur."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 3,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif (nombre de lots, exemples d'acheteurs), mais formulation plus longue et un peu redondante."
+      },
+      "Claude Sonnet": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Bonne restitution des éléments essentiels (date, acheteurs, montants en livres et dollars). N'indique pas le nombre total de lots."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Claire et fidèle, mentionne date, nature du document, colonnes de prix et noms d'acheteurs; concise mais complète."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Très concise et exacte sur l'essentiel (date, prix en £ et $ et acheteurs) mais manque le décompte des lots et quelques exemples."
+      },
+      "Mistral Small": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Correct et raisonnablement concis ; mentionne numéros de lots, acheteurs et prix mais sans préciser le total des lots."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 3,
+        "commentaire": "Contient des éléments corrects (date, lieu de la maison, colonnes de prix/acheteurs) mais ajoute une assertion non justifiée (référence possible à Jean‑Louis Forain) et localise la vente à Londres sans preuve dans la transcription."
+      }
+    }
+  },
+  "FO-0020_1": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Claude Sonnet",
+      "Mistral Small",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "GPT 4.1"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : dates, lieu, reproduction, vente, référence FO-TAB.020 et annotation 'Doct. amsy.' sont tous repris de façon concise."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Équivalent au précédent : restitue correctement tous les éléments clés (expo, reproduction, vente, localisation Mexico, réf.)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne restitution des éléments essentiels (expo 1953, reproduction, vente 1982, localisation Mexico) mais omet la référence FO-TAB.020 et la date précise de la reproduction."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Trop vague : évoque œuvres et périodes (1953–1982) sans fournir les dates exactes, la référence FO-TAB.020 ni la mention 'Doct. amsy.'."
+      },
+      "Claude Opus": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient une hallucination importante en attribuant les œuvres à Forain (non indiqué dans la transcription). Les dates et lieux sont par ailleurs reportés correctement."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Attribue également les œuvres à Jean-Louis Forain (hallucination). Récupère dates et lieux mais introduit une attribution erronée."
+      },
+      "Mistral Large": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Vague et introduit une attribution à Forain ; mentionne l'expo et la localisation à Mexico mais sans précision utile supplémentaire."
+      },
+      "GPT 4.1": {
+        "fidélité": 2,
+        "concision": 3,
+        "informativité": 2,
+        "commentaire": "Inexact : attribue l'exposition de 1953 à 'Régine' au lieu de 'Colette & Paul Masson' (mélange les éléments). Mentions générales de publication et vente mais confond les éléments."
+      }
+    }
+  },
+  "FO-0015_7": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : mentionne le retour depuis deux jours, les rangements, l'impossibilité de venir pour tailler la veste, la demande d'adresse de la femme médecin homéopathe et la question sur l'été ; concise et complète."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif (inclut la veste), un peu plus verbeux mais exact."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Claire et concise, reprend le retour, l'occupation et la demande d'adresse ainsi que la question sur l'été, mais n'évoque pas la remarque sur la veste."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Juste et sobre ; cependant omet la précision des deux jours, l'occupation par les rangements et la mention de la veste."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Capture l'excuse et l'occupation et la demande d'adresse, mais introduit une précision non présente (« retour de vacances ») — légère hallucination."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Synthétique et globalement correct, mais reste vague (n'évoque pas la veste, ne précise pas clairement qu'il s'agit de la femme du destinataire)."
+      },
+      "Mistral Medium": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Contient des éléments hallucinés (retour à Paris) et ajoute une nuance (« recommandée ») non explicite ; capte toutefois le cœur de la demande."
+      },
+      "Mistral Small": {
+        "fidélité": 1,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Peu fiable : introduit un destinataire nommé (Forain) et transforme la question sur l'été en vœux ; omet plusieurs détails du texte."
+      }
+    }
+  },
+  "FO-0013_4": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "Mistral Medium",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Rend fidèlement le contenu principal : lieu, date, horaires d'expo, contacts, prix du catalogue, experts et principaux artistes/lots. Pas d'hallucination, bon équilibre entre concision et détails."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle et concis; donne l'heure de la vente, les horaires d'exposition, le catalogue et la présence des experts et lots phares. Remplit bien les critères."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et synthétique, mentionne les informations pratiques et les artistes majeurs. Moins de détails chiffrés (ex. prix du catalogue, heure précise)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Correct et précis sur l'œuvre de Forain et sur la période d'exposition; omet l'heure de la vente et le prix du catalogue mais reste fidèle aux éléments cités."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Similaire à Claude Sonnet : fidèle pour les artistes et le lot Forain, mais plus lacunaire sur les informations pratiques (heure, prix, experts)."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Annonce correcte et très brève; indique lieu et date et cite Forain mais manque d'informations pratiques et de lots/experts."
+      },
+      "Mistral Medium": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 3,
+        "commentaire": "Mentionne artistes et exposition mais tronque la date ('200...'), ce qui nuit à la fiabilité. Omet l'heure et d'autres détails pratiques."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Très bref et partiellement utile (cite Forain) mais contient une ligne incohérente ('Télécharger entête') et manque la plupart des informations essentielles (date/heure complètes, experts, catalogue)."
+      }
+    }
+  },
+  "FO-0017_2": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Mistral Medium",
+      "Claude Sonnet",
+      "Claude Opus",
+      "Mistral Large",
+      "Mistral Small",
+      "GPT 4.1"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription : inclut titre, medium, dimensions, photographie au recto, date 23/06/2000, auteur (Florence Valade) et datation circa 1896."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Complet et concis : reprend tous les éléments (titre, medium, dimensions, photographie, date/nom, datation)."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Mentionne titre, medium, dimensions, photo, datation et auteur; omet la date précise (jour/mois) mais reste très informatif."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Globalement fidèle et détaillé ; emploie 'attestation' et 'attribuée' (légère interprétation) mais reprend la date précise."
+      },
+      "Claude Opus": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Reprend la plupart des éléments mais parle d'«attestation d'authenticité», formulation plus forte que le texte source."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Concise et correcte sur l'inclusion et la datation, mais omet les dimensions, la mention de la photographie et la date précise."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Brève et fidèle sur l'essentiel (titre, taille, datation, catalogue) mais ne mentionne ni la date précise ni la photographie."
+      },
+      "GPT 4.1": {
+        "fidélité": 2,
+        "concision": 4,
+        "informativité": 2,
+        "commentaire": "Surinterprète la note comme un 'certificat d'authenticité' et omet dimensions, photographie et la date précise; formulation trop assertive."
+      }
+    }
+  },
+  "FO-0010_2": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Mistral Medium",
+      "Claude Sonnet",
+      "Claude Opus",
+      "GPT 4.1",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Reflète fidèlement le texte : titre, technique, dimensions, signature, date, signataires et inclusion dans le catalogue en préparation. Pas d'ajout superflu."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Équivalent au précédent : complet et concis, reprend toutes les informations essentielles (y compris la date et les signatures)."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle et informatif (technique, dimensions, signature, signataires, date). Légèrement plus verbeux mais reste clair."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très complet (taille, technique, signature, date, signataires). Qualifie toutefois le document de « certificat d'authenticité » (interprétation non explicite dans la transcription)."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Bonne restitution générale (date, signataires, technique) mais omet la dimension et la mention de la signature en bas à droite."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Correct et concis (date, signataires, inclusion) mais omet technique, dimensions et emplacement de la signature."
+      },
+      "Mistral Large": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très bref et fidèle sur le point principal (inclusion dans le catalogue) mais ne mentionne pas la technique, les dimensions ni les signataires."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop synthétique : indique l'inclusion et la technique mais omet la date, les signataires, les dimensions et la mention de la signature/photo au recto."
+      }
+    }
+  },
+  "FO-0016_6": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Opus",
+      "Mistral Medium",
+      "Mistral Large",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très fidèle au texte : date, heure, lieu, horaires d'exposition, mentions légales et coordonnées de l'expert sont mentionnées. Légèrement verbeux mais complet."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Très proche du contenu : date/heure/lieu, horaires d'exposition et expert sont précisés. Omet les mentions légales détaillées mais reste complet et clair."
+      },
+      "Claude Opus": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Fidèle et informatif : indique la date, le lieu, les expositions et l'expert. Moins de détails pratiques (horaires de la vente, mentions légales complètes)."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Bonne synthèse concise : date, lieu, expositions et expert mentionnés. N'indique pas l'heure précise de la vente ni les coordonnées/mentions légales complètes."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Capture l'essentiel (vente, nature des lots, expositions, expert) mais reste général et omet l'heure exacte et les détails légaux/coordonnées."
+      },
+      "GPT 4.1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Annonce correcte et succincte, mentionne date et expert et indique nature informative du document. Manque l'heure précise, l'adresse complète et les mentions légales."
+      },
+      "Claude Sonnet": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Très concis et fidèle pour ce qu'il dit (vente, lots, direction, expert) mais omet des éléments majeurs comme la date précise, le lieu exact et les horaires d'exposition."
+      },
+      "Mistral Small": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop bref et imprécis : laisse entendre que l'événement se déroule les 14-16 (alors qu'il s'agit des expositions) et n'indique ni lieu exact, ni direction, ni horaire de la vente."
+      }
+    }
+  },
+  "FO-0009_5": {
+    "classement": [
+      "GPT Mini prompt 1",
+      "GPT Mini",
+      "Claude Opus",
+      "GPT 4.1",
+      "Claude Sonnet",
+      "Mistral Medium",
+      "Mistral Large",
+      "Mistral Small"
+    ],
+    "meilleur": "GPT Mini prompt 1",
+    "évaluations": {
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription : titre, technique, monogramme, dimensions, photographie au recto, catalogue raisonné, date et mention Florence Valadier sont tous présents. Bref et complet."
+      },
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Également complet et précis, inclut les mêmes détails techniques et la date; formulation légèrement différente mais aussi fidèle et concise."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Donne tous les éléments essentiels (titre, huile sur panneau, dimensions, monogramme, catalogue, date) mais introduit le terme « document d'expertise » qui n'apparaît pas explicitement dans la transcription (légère sur-interprétation)."
+      },
+      "GPT 4.1": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Formulation correcte (répertorisation signalée par Florence Valadier, date) mais omet plusieurs détails techniques (monogramme, dimensions, photographie au recto, technique complète)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Contient la plupart des informations utiles (titre, technique, dimensions, inscription au catalogue) mais qualifie le document de « certificat d'authenticité », ajout non justifié par la transcription."
+      },
+      "Mistral Medium": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Description fidèle et concise (titre, huile sur panneau, dimensions, destination au catalogue, signature/date) mais omet le détail du monogramme et la mention de la photographie au recto."
+      },
+      "Mistral Large": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Phrase générale et correcte (fiche destinée au catalogue, Florence Valadier, 2001) mais trop vague : aucun détail technique (dimensions, monogramme, photographie) n'est fourni."
+      },
+      "Mistral Small": {
+        "fidélité": 2,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Très succincte et incomplète ; en outre introduit l'information non justifiée « conservé à l'atelier ». Manque les éléments techniques essentiels."
+      }
+    }
+  },
+  "FO-0155_2": {
+    "classement": [
+      "GPT Mini",
+      "GPT Mini prompt 1",
+      "Mistral Medium",
+      "Mistral Large",
+      "Claude Opus",
+      "Mistral Small",
+      "Claude Sonnet",
+      "GPT 4.1"
+    ],
+    "meilleur": "GPT Mini",
+    "évaluations": {
+      "GPT Mini": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 5,
+        "commentaire": "Très fidèle à la transcription : mentionne la galerie, la personne, les spécialités, les coordonnées téléphoniques et fax, l'adresse et la formule de politesse — complet et concis."
+      },
+      "GPT Mini prompt 1": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Description exacte et complète de l'en-tête ; légèrement plus développée que nécessaire mais sans erreurs."
+      },
+      "Mistral Medium": {
+        "fidélité": 5,
+        "concision": 4,
+        "informativité": 5,
+        "commentaire": "Bonne capture des éléments clés (galerie, période, coordonnées, formule). Présente l'information clairement."
+      },
+      "Mistral Large": {
+        "fidélité": 5,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Fidèle et concise ; mentionne adresse et coordonnées de façon générale mais n'énumère pas explicitement téléphones/fax."
+      },
+      "Claude Opus": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 4,
+        "commentaire": "Correct et concis, mais qualifie le document de 'carte de visite' (l'objet est plutôt un en-tête/entête) et omet les numéros de téléphone/fax explicites."
+      },
+      "Mistral Small": {
+        "fidélité": 4,
+        "concision": 5,
+        "informativité": 3,
+        "commentaire": "Description très brève et globalement correcte, mais manque de détails (pas de numéros, adresse précise ni mention explicite de la formule de politesse)."
+      },
+      "Claude Sonnet": {
+        "fidélité": 3,
+        "concision": 4,
+        "informativité": 4,
+        "commentaire": "Donne des éléments corrects (spécialité, lieu, formule) mais ajoute une supposition non justifiée (« vraisemblablement à Jean-Louis Forain ») : hallucination."
+      },
+      "GPT 4.1": {
+        "fidélité": 3,
+        "concision": 5,
+        "informativité": 2,
+        "commentaire": "Trop lacunaire : réduit le document à une 'lettre formelle' exprimant des salutations, sans évoquer la galerie, les spécialités, l'adresse ni les coordonnées — omission d'éléments essentiels."
+      }
+    }
+  }
+}
